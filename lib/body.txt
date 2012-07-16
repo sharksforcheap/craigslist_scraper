@@ -1,0 +1,6 @@
+Hello,
+
+I saw your listing, #{@title}, on craigslist.  I am currently looking for a place and would love to take a tour.  Please get back to me at best_roomate_ever@tonybphillips.com
+
+Warmly,
+Tony
